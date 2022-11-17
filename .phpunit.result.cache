@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":224:{a:2:{s:7:"defects";a:1:{s:42:"ProductTest::testIncreaseQuantityInProduct";i:3;}s:5:"times";a:2:{s:56:"PrestaShop\Module\Ifthenpay\tests\Unit\OneTest::test_One";d:0.002;s:42:"ProductTest::testIncreaseQuantityInProduct";d:0;}}}

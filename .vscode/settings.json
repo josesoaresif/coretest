@@ -1,0 +1,8 @@
+{
+  "phpunit.execPath": "/usr/local/bin/phpunit",
+  "phpunit.args": [
+      "--configuration", "./phpunit.xml",
+      "--testsuite", "unit"
+  ],
+  "phpunit.preferRunClassTestOverQuickPickWindow": false
+}
